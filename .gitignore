@@ -1,0 +1,37 @@
+# ignored files extensions
+*.bak
+*.log
+*.pdf
+*.zip
+
+# ignored directories
+target
+files
+generated-reports
+bin
+.svn
+out
+
+# eclipse
+.projects
+.settings
+.metadata
+*.classpath
+*.project
+*.projects
+
+# idea
+.idea
+*.iml
+*.ipr
+*.iws
+*.ids
+atlassian-ide-plugin.xml
+
+# mock
+mock.js
+
+#redis dump file
+dump.rdb
+
+.flattened-pom.xml
